@@ -1,0 +1,14 @@
+id: nosotros
+title: Nosotros
+color: white
+bg: equipo-clinica-martinez-marcos.jpg
+size: sm
+description: |
+  Somos un equipo de profesionales dedicados a la evaluación, diagnóstico intervención y tratamiento de distintos trastornos psicológicos en lo largo del ciclo vital, desde Atención Temprana hasta la Vejez. Así mismo, evaluamos e intervenimos en Trastornos del lenguaje oral y escrito.
+
+  [btn icon-plus Más](#sobre-nosotros)
+more:
+  align: center
+  opacity: 30
+  parallax: true
+  container: white

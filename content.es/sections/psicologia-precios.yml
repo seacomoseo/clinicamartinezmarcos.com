@@ -1,0 +1,37 @@
+id: precios
+title: Precios
+color: light
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+  items:
+  - title: Adultos
+    price: 50 €
+    link: '#contacto'
+    label: Contactar
+    icon: person
+    description: |
+      - icon-clock 50 minutos
+    more:
+      licon: none
+  - title: Niños
+    price: 40 €
+    link: '#contacto'
+    label: Contactar
+    icon: child
+    description: |
+      - icon-clock 50 minutos
+    more:
+      licon: none
+  - title: Parejas
+    price: 60 €
+    link: '#contacto'
+    label: Contactar
+    icon: people
+    description: |
+      - icon-clock 50 minutos
+    more:
+      licon: none

@@ -1,0 +1,17 @@
+id: equipo
+title: Equipo
+color: light
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    ratio: normal
+    inset: true
+    border: ''
+  items:
+  - title: Juan José Martínez Marcos
+    subtitle: Psicólogo Especialista
+    link: '#juan-jose-martinez-marcos'
+    image: juan-jose-martinez-marcos.jpg

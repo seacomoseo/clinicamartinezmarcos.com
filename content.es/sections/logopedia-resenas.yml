@@ -1,0 +1,29 @@
+id: resenas
+title: Reseñas
+color: light
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    opacity: 100
+    slider: true
+  items:
+  - title: Toli Martinez Sanchez
+    description: |
+      Un trato excepcional, grandes profesionales, sabiendo en todo momento como realizar su trabajo te hacen sentir como en casa. He quedado muy contenta,recomendable 100%. Sobre todo mi agradecimiento a Juanjo que aparte de gran profesional es una excelente persona. Gracias por tanto.
+  - title: Maria Pino Perez
+    description: |
+      Magníficos profesionales. Trato cordial. Atención personalizada. Me ayudaron a resolver mis problemas.
+  - title: Luis Mediavilla
+    label: Facebook
+    description: |
+      Muy buenos profesionales, clínica de gran calidad.
+- type: columns
+  items:
+  - description: |
+      Puedes ver más reseñas y añadir la tuya aquí:
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/clinicamartinezmarcos/review "noindex")
+      [btn icon-star Facebook](https://www.facebook.com/ClinicaMartinezMarcos1/reviews/ "noindex")

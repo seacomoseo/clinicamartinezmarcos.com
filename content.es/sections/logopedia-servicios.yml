@@ -1,0 +1,31 @@
+id: servicios
+title: Servicios
+color: light
+size: md
+rows:
+- type: columns
+  design:
+    num: 4
+    color: white
+  items:
+  - title: Rehabilitación de Lenguaje
+    link: '#rehabilitacion-lenguaje'
+    icon: comment-medical
+  - title: Terapia Miofuncional
+    link: '#terapia-miofuncional'
+    icon: comment-slash
+  - title: Trastornos de Fluidez
+    link: '#trastornos-fluidez'
+    icon: comment-dots
+  - title: Trastornos de Audición
+    link: '#audicion'
+    icon: ear-deaf
+  - title: Trastornos de la Lectoescritura
+    link: '#trastornos-lectoescritura'
+    icon: book-open
+  - title: Trastornos de Voz
+    link: '#trastornos-voz'
+    icon: microphone-slash
+  - title: Vendaje Neuromuscular
+    link: '#vendaje-neuromuscular'
+    icon: bandage

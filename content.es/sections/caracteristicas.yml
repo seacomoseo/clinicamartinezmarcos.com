@@ -1,0 +1,28 @@
+id: caracteristicas
+title: Características
+subtitle: Lo que nos Diferencia
+color: white
+more:
+  padding_bottom: 0
+rows:
+- type: columns
+  design:
+    hide_shadow: true
+  items:
+  - order: 1
+    description: |
+      - icon-user-graduate **Amplia Formación**
+      - icon-user-gear **Exploración de la Demanda del Paciente**
+      - icon-user-check **Valoración de la Terapia**
+    more:
+      align: left
+      align_xl: right
+  - order: 3
+    description: |
+      - icon-user-clock **Seguimiento de la Terapia**
+      - icon-user-pen **Adaptación a las Necesidades de la Persona**
+      - icon-user-plus **Evaluaciones Psicológicas**
+    more:
+      align: left
+  - order: 2
+    image: equipo-clinica-martinez-marcos.jpg

@@ -1,0 +1,53 @@
+id: estimulacion-transcraneal-por-corriente-directa
+title: Estimulación Transcraneal por Corriente Directa
+color: white
+button: hide
+size: md
+description: |
+  Nuevo método revolucionario para tratar diversos problemas relacionados con el estado de ánimo.
+
+  Somos una de las pocas clínicas en Murcia que utilizan esta tecnología. Después de un año de aplicación fundamentalmente en trastornos depresivos y adicciones con notable éxito, damos un paso importante en el tratamiento de diferentes patologías en el ámbito de la psicología clínica y neurofisiología.
+more:
+  align: center
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - bg: estimulacion-transcraneal-corriente-directa-bn.jpg
+    more:
+      radius: true
+      align_y: strech
+  - title: Beneficios
+    link: '#detalles-estimulacion-transcraneal'
+    description: |
+      En pocas semanas:
+
+      - icon-check Mejora su estado de ánimo
+      - icon-check Reduce el deseo de consumo
+      - icon-check Mejora su concentración, optimismo e iniciativa
+      - icon-check Mejora significativa en el sueño
+      - icon-check Reduce la ansiedad y los pensamientos suicidas.
+
+      Características
+      {.h3}
+
+      La aplicación de tDCS tiene una gran evidencia científica, siendo su origen el campo de la psiquiatría y la psicología, y en los últimos años la evidencia en campo del dolor y trastornos motores. Los campos de aplicación de esta técnica son:
+
+      - icon-check Dolor neuropático crónico.
+      - icon-check Dolor Crónico
+      - icon-check Trastornos motores originados por lesiones neurológicas como los derivados de accidente cerebrovascular (ICTUS) u otros.
+      - icon-check Rehabilitación motora (aprendizaje neuromotor).
+      - icon-check Migrañas
+      - icon-check Atención
+      - icon-check Depresión
+      - icon-check Ansiedad
+      - icon-check Adicciones
+      - icon-check Tinnitus
+      - icon-check Insomnio
+      - icon-check Hiperactividad
+      - icon-check Esclerosis múltiple
+      - icon-check Parkinson
+    more:
+      align: left

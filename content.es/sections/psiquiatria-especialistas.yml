@@ -1,0 +1,16 @@
+id: especialistas
+title: Especialistas
+color: light
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    ratio: 1x1
+    inset: true
+  items:
+  - title: Modesto Jesús Sánchez López
+    subtitle: Psiquiatra
+    link: '#modesto-jesus-sanchez-lopez'
+    image: modesto-jesus-sanchez-lopez.jpg

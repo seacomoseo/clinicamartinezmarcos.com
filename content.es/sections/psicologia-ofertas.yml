@@ -1,0 +1,36 @@
+id: ofertas
+title: Ofertas
+color: main-dark
+size: md
+gradient: dark
+more:
+  gradient_type: linear-br
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+  items:
+  - title: Desempleado / Estudiante
+    price: 35 - 40 €
+    link: '#contacto'
+    label: Contactar
+    icon: graduation-cap
+    more:
+      licon: none
+  - title: Bono 4 Sesiones / Mes
+    link: '#contacto'
+    label: Contactar
+    icon: calendar-check
+    description: |
+      **Pregunta sin compromiso**
+    more:
+      licon: none
+  - title: Tratamiento 4 Meses
+    link: '#contacto'
+    label: Contactar
+    icon: calendar-plus
+    description: |
+      **Pregunta sin compromiso**
+    more:
+      licon: none

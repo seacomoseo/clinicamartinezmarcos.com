@@ -1,0 +1,17 @@
+id: header
+title: Clínica de Psicología
+subtitle: Psicólogos en Murcia
+color: light
+image: logo-alt.svg
+bg: fondo.jpg
+description: |
+  Tu salud en las mejores manos
+
+  [btn icon-plus Más](#principal)
+more:
+  align: center
+  full_screen: true
+  image_min: 12
+  image_max: 12
+  opacity: 30
+  parallax: true

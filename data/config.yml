@@ -1,0 +1,40 @@
+title: Clínica Martínez Marcos
+description: Clínica de Psicología, Logopedia, Psiquiatría, Fisioterapia y Osteopatía en Murcia
+logo: logo.svg
+legal_name: Juan José Martínez Marcos
+legal_dni: ''
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- LocalBusiness
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-4RSE2DNV6F
+google_site_verification: 9lvO4nmdJlYuvQnlw2zYQdtQwywFWusaxzHRuHCW6s8
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.instagram.com/martinezmarcospsicologia/
+- link: https://www.facebook.com/ClinicaMartinezMarcos1/
+- link: https://g.page/clinicamartinezmarcos
+

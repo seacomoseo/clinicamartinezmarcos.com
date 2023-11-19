@@ -1,0 +1,20 @@
+id: servicios
+title: Servicios
+color: light
+rows:
+- type: columns
+  design:
+    color: white
+  items:
+  - title: Psicología
+    link: /psicologos-murcia/
+    icon: brain
+  - title: Logopedia
+    link: /logopedas-murcia/
+    icon: comment-medical
+  - title: Psiquiatría
+    link: /psiquiatras-murcia/
+    icon: capsules
+  - title: Fisioterapia
+    link: https://www.miosfisioterapia.com/
+    icon: hands-praying

@@ -1,0 +1,13 @@
+id: fotos
+anchor: Fotos
+color: light
+size: fluid
+rows:
+- type: gallery
+  design:
+    max: 6
+    num: 2
+    cover: true
+  images:
+  - consulta.jpg
+  - recibidor-central.jpg

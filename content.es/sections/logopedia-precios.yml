@@ -1,0 +1,19 @@
+id: precios
+title: Precios
+color: light
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+  items:
+  - title: Sesión Individual
+    price: 20 €
+    link: '#contacto'
+    label: Contactar
+    icon: comment-medical
+    description: |
+      - icon-clock 30 minutos
+    more:
+      licon: none

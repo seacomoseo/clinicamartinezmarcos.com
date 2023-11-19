@@ -1,0 +1,24 @@
+id: aseguradoras
+title: Aseguradoras
+subtitle: Con las que trabajamos
+color: light
+more:
+  padding_bottom: 0
+rows:
+- type: gallery
+  design:
+    max: 8
+    num: 4
+    gap: true
+    cover: false
+    grayscale: true
+  items:
+  - image: aseguradora-asisa.svg
+  - image: aseguradora-adelas.svg
+  - image: aseguradora-caser-seguros.svg
+  - image: aseguradora-dkv.svg
+  # - aseguradora-tavad.svg
+  - image: aseguradora-tavad_new.svg
+  - image: aseguradora-canal-salud-24.png
+  - image: aseguradora-azkaran.png
+  - image: aseguradora-d-salus.png

@@ -1,0 +1,28 @@
+id: contacto
+title: Contacto
+color: white
+button: link
+size: sm
+more:
+  padding_bottom: 0
+rows:
+- type: contact
+  data:
+  - type: phone
+    label: 661 793 169
+  - type: whatsapp
+    button: link
+    label: 661 793 169
+  - type: address
+    active: true
+    name: Clínica Martínez Marcos
+    streetAddress: Plaza Beato Andrés Hibernón, 1
+    postalCode: 30001
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.127396,37.987117]}'
+  map:
+    active: true
+    # link: https://g.page/clinicamartinezmarcos
+    iframe: ''

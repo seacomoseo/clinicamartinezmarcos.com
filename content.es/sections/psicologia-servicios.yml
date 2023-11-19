@@ -1,0 +1,28 @@
+id: servicios
+title: Servicios
+color: light
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+  items:
+  - title: Estimulación Cognitiva
+    link: '#estimulacion-cognitiva'
+    icon: head-side-brain
+  - title: Psicología Infanto-Juvenil
+    link: '#psicologia-infanto-juvenil'
+    icon: child
+  - title: Psicoterapia
+    link: '#psicoterapia'
+    icon: comments
+  - title: Orientación Escolar
+    link: '#orientacion-escolar'
+    icon: graduation-cap
+  - title: Tratamientos Cognitivos-Conductuales
+    link: '#tratamientos-cognitivos-conductuales'
+    icon: head-side-medical
+  - title: Terapia de Pareja
+    link: '#terapia-de-pareja'
+    icon: people-arrows-left-right

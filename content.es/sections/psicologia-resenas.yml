@@ -1,0 +1,31 @@
+id: resenas
+title: Reseñas
+color: light
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    opacity: 100
+    slider: true
+  items:
+  - title: David Soto
+    image: https://lh3.googleusercontent.com/a-/AOh14GisUNKwMznlCsUUSqYRjl55uuvviD7Ej5DQFLDBw6s=w126
+    description: |
+      Leticia es una gran psicóloga, pues además de su increíble tacto que hace que te sientas cómodo durante toda la sesión y te puedas abrir sin ningún problema, sabe trabajar con el rigor de una gran profesional para que veas las cosas de una forma mucho más constructiva y mejor. Cada sesión es oro. Muy muy muy recomendable.
+  - title: Mariajo :D
+    image: https://lh3.googleusercontent.com/a-/AOh14Ggp1TZi4s-B-P98hIJWIdCkml1Ap3h6NdIpNZ8gE6Y=w126
+    description: |
+      En mi vida he empezado ya varias terapias sin demasiado éxito y adherencia. Sin embargo, con Leticia ha sido todo diferente; hemos establecido una relación terapéutica fructífera en un ambiente de plena confianza y sólo puedo decir que estoy muy satisfecha con mi experiencia en esta clínica :)
+  - title: Alicia GM
+    image: https://lh3.googleusercontent.com/a-/AOh14GibhShH4YZ3A8wRkCDXbPJzoc0r068o_j2fRnVh_A=w126
+    description: |
+      La verdad que recomiendo esta clínica a todos mis amigues y familia. En concreto, me atiende Leticia y es una gran profesional y muy cercana.
+- type: columns
+  items:
+  - description: |
+      Puedes ver más reseñas y añadir la tuya aquí:
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/clinicamartinezmarcos/review "noindex")
+      [btn icon-star Facebook](https://www.facebook.com/ClinicaMartinezMarcos1/reviews/ "noindex")

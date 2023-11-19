@@ -1,0 +1,101 @@
+// Header
+
+#body-inicio #header {
+  .section__title {
+    display: none;
+  }
+}
+.section--header:not(#body-inicio #header) {
+  .subtitle {
+    @extend h1;
+    color: $main;
+  }
+}
+.section--header {
+  @mixin header-animation($delay) {
+    animation: show-up .5s ($delay * .125s) both;
+  }
+  .section__title { @include header-animation(5); }
+  .subtitle {       @include header-animation(6); }
+  .description {
+    p:first-child { @include header-animation(7); }
+    .buttons {      @include header-animation(8); }
+  }
+}
+
+
+// Servicios
+
+#body-psicologos-murcia #header,
+#body-logopedas-murcia #header {
+  ~ main {
+    #servicios {
+      .column__header {
+        h3 {
+          font-size: 1.1em;
+        }
+      }
+    }
+  }
+}
+#caracteristicas {
+  .image__inner {
+    border-radius: 0;
+  }
+  .column {
+    ul {
+      height: 100%;
+      @media (min-width: $screen-xl) {
+        padding: 0 2em;
+      }
+      strong {
+        vertical-align: middle;
+      }
+      svg {
+        font-size: 2em;
+        margin: 0 0.2em;
+        position: relative;
+        top: 0.25em;
+      }
+    }
+  }
+}
+#ofertas {
+  .column__header {
+    h3 {
+      font-size: 1.1em;
+    }
+  }
+}
+#aseguradoras,
+#convenios {
+  .gallery__image {
+    &, > img {
+      max-height: 120px;
+    }
+  }
+}
+#fotos {
+  padding: 0;
+  overflow: unset;
+  .container--fluid {
+    padding: 0;
+    max-width: 100%;
+    width: 100%;
+    z-index: unset;
+  }
+  .section__header {
+    display: none;
+  }
+  .gallery {
+    border-radius: 0;
+  }
+  .buttons {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  .button {
+    z-index: 60;
+  }
+}

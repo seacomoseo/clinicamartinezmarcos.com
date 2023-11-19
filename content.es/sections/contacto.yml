@@ -1,0 +1,45 @@
+id: contacto
+title: Contacto
+color: white
+button: link
+size: sm
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes - Viernes
+    hours: 16:30 - 21:00
+  - type: br
+  - type: phone
+    label: 968 11 13 64
+  - type: whatsapp
+    button: link
+    label: 627 35 53 02
+  - type: mail
+    label: clinicamartinezmarcos@gmail.com
+    full: true
+  - type: address
+    active: true
+    name: Clínica Martínez Marcos
+    streetAddress: Plaza Beato Andrés Hibernón, 1
+    postalCode: 30001
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.127396,37.987117]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: true
+    link: https://g.page/clinicamartinezmarcos
+    iframe: ''
