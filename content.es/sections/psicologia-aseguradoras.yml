@@ -5,13 +5,13 @@ color: light
 more:
   padding_bottom: 0
 rows:
-- type: gallery
+- type: columns
   design:
-    max: 8
     num: 4
-    gap: true
-    cover: false
+    num_xs: true
     grayscale: true
+    ratio: 2x1
+    gap: 2
   items:
   - image: aseguradora-asisa.svg
   - image: aseguradora-adelas.svg
@@ -19,6 +19,23 @@ rows:
   - image: aseguradora-dkv.svg
   # - aseguradora-tavad.svg
   - image: aseguradora-tavad_new.svg
-  - image: aseguradora-canal-salud-24.png
-  - image: aseguradora-azkaran.png
-  - image: aseguradora-d-salus.png
+  - image: aseguradora-canal-salud-24.svg
+  - image: aseguradora-azkaran.svg
+  - image: aseguradora-d-salus.svg
+# - type: gallery
+#   design:
+#     max: 8
+#     num: 4
+#     gap: true
+#     cover: false
+#     grayscale: true
+#   items:
+#   - image: aseguradora-asisa.svg
+#   - image: aseguradora-adelas.svg
+#   - image: aseguradora-caser-seguros.svg
+#   - image: aseguradora-dkv.svg
+#   # - aseguradora-tavad.svg
+#   - image: aseguradora-tavad_new.svg
+#   - image: aseguradora-canal-salud-24.png
+#   - image: aseguradora-azkaran.png
+#   - image: aseguradora-d-salus.png

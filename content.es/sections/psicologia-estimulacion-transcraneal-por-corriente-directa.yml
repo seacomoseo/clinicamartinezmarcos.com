@@ -13,12 +13,8 @@ rows:
 - type: columns
   design:
     num: 2
-    align_y: center
   items:
   - bg: estimulacion-transcraneal-corriente-directa-bn.jpg
-    more:
-      radius: true
-      align_y: strech
   - title: Beneficios
     link: '#detalles-estimulacion-transcraneal'
     description: |
@@ -51,3 +47,4 @@ rows:
       - icon-check Parkinson
     more:
       align: left
+      align_y: center

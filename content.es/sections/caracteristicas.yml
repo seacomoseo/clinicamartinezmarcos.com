@@ -8,6 +8,7 @@ rows:
 - type: columns
   design:
     hide_shadow: true
+    hide_radius: true
   items:
   - order: 1
     description: |

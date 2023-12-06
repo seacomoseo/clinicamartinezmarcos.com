@@ -3,13 +3,22 @@ title: Convenios
 subtitle: Con las universidades y alumnos en practicas
 color: light
 rows:
-- type: gallery
+- type: columns
   design:
-    max: 8
-    num: 2
-    gap: true
-    cover: false
+    num: 3
+    num_xs: true
     grayscale: true
+    gap: 2
   items:
   - image: convenio-umu.svg
   - image: convenio-viu.svg
+# - type: gallery
+#   design:
+#     max: 8
+#     num: 2
+#     gap: true
+#     cover: false
+#     grayscale: true
+#   items:
+#   - image: convenio-umu.svg
+#   - image: convenio-viu.svg

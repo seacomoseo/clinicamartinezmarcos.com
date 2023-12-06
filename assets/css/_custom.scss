@@ -39,8 +39,10 @@
   }
 }
 #caracteristicas {
-  .image__inner {
-    border-radius: 0;
+  .image, .image__inner {
+    &, img {
+      border-radius: 0;
+    }
   }
   .column {
     ul {
