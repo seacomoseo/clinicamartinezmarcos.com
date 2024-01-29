@@ -13,7 +13,7 @@
 }
 .section--header {
   @mixin header-animation($delay) {
-    animation: show-up .5s ($delay * .125s) both;
+    animation: show-from .5s ($delay * .125s) both;
   }
   .section__title { @include header-animation(5); }
   .subtitle {       @include header-animation(6); }
