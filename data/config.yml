@@ -34,7 +34,10 @@ custom_code:
     code: ''
     lang: javascript
 social:
-- link: https://www.instagram.com/martinezmarcospsicologia/
-- link: https://www.facebook.com/ClinicaMartinezMarcos1/
 - link: https://g.page/clinicamartinezmarcos
+- link: https://es.linkedin.com/company/cl%C3%ADnica-mart%C3%ADnez-marcos
+- link: https://www.facebook.com/ClinicaMartinezMarcos1/
+- link: https://www.instagram.com/martinezmarcospsicologia/
+- link: https://www.doctoralia.es/clinicas/clinica-martinez-marcos
+  icon: doctoralia
 
